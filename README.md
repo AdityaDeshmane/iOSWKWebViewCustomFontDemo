@@ -1,5 +1,9 @@
 # iOSWKWebViewCustomFontDemo
-WKWebView Using Custom Fonts : Demo project showing how to use custom font in WKWebView
+---
+---
+
+*WKWebView Using Custom Fonts 
+*Demo project showing how to use custom font in WKWebView
 
 ## Scenario
 
@@ -8,5 +12,3 @@ WKWebView Using Custom Fonts : Demo project showing how to use custom font in WK
 * Fonts are local and are added in top level project
 * Entries for fonts in appName-info.plist under key 'Fonts provided by application'
 
----
----
