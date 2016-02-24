@@ -1,0 +1,43 @@
+
+
+@font-face
+{
+    font-family: 'MonotypeSabonW04-Regular';
+    src: local('MonotypeSabonW04-Regular'),url('Monotype Sabon Regular.otf') format('opentype');
+}
+@font-face
+{
+    font-family: 'MonotypeSabonW04-Italic';
+    src: local('MonotypeSabonW04-Italic'),url('Monotype Sabon Italic.otf') format('opentype');
+}
+
+@font-face
+{
+    font-family: 'CharlotteSansW02-Book';
+    src: local('CharlotteSansW02-Book'),url('Charlotte Sans Book.otf') format('opentype');
+}
+
+
+h1
+{
+    font-family: 'MonotypeSabonW04-Regular';
+    font-size: 70px;
+    font-weight: normal;
+}
+
+h2
+{
+    font-family: 'MonotypeSabonW04-Italic';
+    font-size: 65px;
+    font-weight: normal;
+}
+
+h3
+{
+    font-family: 'CharlotteSansW02-Book';
+    font-size: 60px;
+    font-weight: normal;
+}
+
+
+
